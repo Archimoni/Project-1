@@ -1,6 +1,6 @@
 Program 1
 
-types array b[1//to 27];
+types array b[1..to 27];
 type_i:integer
 type_s:string;
 tipe_b:boolean;
